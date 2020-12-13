@@ -1,3 +1,6 @@
+## Demo Link
+Open [https://clone-105cd.web.app/](https://clone-105cd.web.app/) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,6 +47,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Getting Started with Node js Backend
+To learn expressjs, check out the [React documentation](https://expressjs.com//).
+
+### `npm firebase:emulators start`
 
 ### Code Splitting
 
